@@ -23,7 +23,7 @@ Let's get down to business.
 	- [Github](https://github.com/IWillChangeTheNameLater)
 - If
 	- You need
-	- You have and an idea of a valuable to society IT project
+	- You have an idea of a valuable to society IT project
 	- You need my help
 	- You're Elon Musk
 
