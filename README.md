@@ -10,7 +10,23 @@ Let's get down to business.
 
 ## ✔️ Achievements
 - Knowledge
-	- Python
+	- Natural
+		- Russian (Native)
+		- English (B1)
+	  - Programming
+		- Python
+	 		- FastAPI
+	   		- SQLAlchemy
+     			- Discord.py
+        		- PyTest
+          		- Celery
+	- Instruments
+ 		- Git
+  		- Linux 
+ 		- Databases
+   			- PostgreSQL
+      			- Redis
+      		- Docker
 - Projects
 	- [Imaginarium Discord bot](https://github.com/IWillChangeTheNameLater/Imaginarium_bot)
 - Competitions
