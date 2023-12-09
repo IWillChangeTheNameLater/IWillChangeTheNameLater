@@ -20,7 +20,7 @@ Let's get down to business.
 
 ## ✉️ Contact me
 - By
-	- [Github](https://github.com/IWillChangeTheNameLater)
+	- [Telegram](https://t.me/ItsNotWarm)
 - If
 	- You need
 	- You have an idea of a valuable to society IT project
