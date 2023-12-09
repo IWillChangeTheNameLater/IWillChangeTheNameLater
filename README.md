@@ -10,16 +10,17 @@ Let's get down to business.
 
 ## ✔️ Achievements
 - Knowledge
-	- Natural
-		- Russian (Native)
-		- English (B1)
-	  - Programming
-		- Python
-	 		- FastAPI
-	   		- SQLAlchemy
-     			- Discord.py
-        		- PyTest
-          		- Celery
+	- Languages
+		- Natural
+			- Russian (Native)
+			- English (B1)
+		- Programming
+			- Python
+		 		- FastAPI
+		   		- SQLAlchemy
+	     			- Discord.py
+	        		- PyTest
+	          		- Celery
 	- Instruments
  		- Git
   		- Linux 
