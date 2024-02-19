@@ -16,11 +16,11 @@ Let's get down to business.
 			- English (B1)
 		- Programming
 			- Python
-		 		- FastAPI
-		   		- SQLAlchemy
-	     			- Discord.py
-	        		- PyTest
-	          		- Celery
+   				- FastAPI
+				- SQLAlchemy
+				- Discord.py
+				- PyTest
+				- Celery
 	- Instruments
  		- Git
   		- Linux 
